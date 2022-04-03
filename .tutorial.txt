@@ -1,3 +1,21 @@
+--Installing Nodejs 
+
+Update NodeJS in Linux 
+npm cache clean -f
+npm install -g n
+sudo n stable
+sudo n latest
+
+#To resintall latest STABLE version of nodejs 
+# this helps when nodejs updates during package imports 
+# or installs 
+sudo n lts 
+
+--Run project locally
+npm start
+
+
+--GUIDES 
 adding react to gh-pages
 https://github.com/gitname/react-gh-pages
 
@@ -11,14 +29,7 @@ https://www.rapidtables.com/web/color/RGB_Color.html
 create a sticky footer in React 
 https://reactgo.com/react-sticky-footer/
 
-Update NodeJS in Linux 
-npm cache clean -f
-npm install -g n
-sudo n stable
-sudo n latest
 
-## Run project locally
-npm start
 
 PASSINGS VARIABLES (example in App.js)
 

@@ -6,7 +6,7 @@ const content = () => (
   <header className="App-header">
     <img src={basketball} className="App-logo" alt="logo" />
     <p>
-      Edit <code>src/App.js</code> and save to reload.
+      <code>Edit src/content.js</code> and save to reload.
     </p>
     <a
       className="App-link"

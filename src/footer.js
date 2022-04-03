@@ -5,7 +5,7 @@ import './css/App.css';
 
 const footer = () => (
   <div className="footer">
-    <p>Made with React by Tedley Meralus</p>
+    <p>Made with ReactJS by Tedley Meralus</p>
   </div>
 );
 

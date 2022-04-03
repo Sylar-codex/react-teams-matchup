@@ -1,12 +1,15 @@
 import React from "react";
-//import React, { Component } from "react";
+import './css/header.css'; 
 import './fonts/basketball/Basketball.otf';
-import './css/App.css'; 
 
 const header = () => (  
-      <div className="font-face-bball">
-       <h1>Teams Matchup</h1>
-      </div>
+      <div className="top-container">
+      <i2 class="fa fa-bars"></i2>
+      <i2 class="fa-regular fa-circle-question fa-beat-fade-short"></i2>
+      <h3>Teams Matchup</h3>  
+      <i class="fas fa-gear fa-spin-hover"></i>
+      <i class="fas fa-square-poll-vertical"></i>
+      </div> 
   )
 
 export default header;
