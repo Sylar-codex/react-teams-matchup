@@ -17,7 +17,7 @@ npm install -g n
 sudo n stable
 sudo n latest
 
-Run project locally
+## Run project locally
 npm start
 
 PASSINGS VARIABLES (example in App.js)
