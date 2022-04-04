@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.font-face-basketball {
+  font-family: "basketball";
+ }
+ .font-face-blank-river {
+  font-family: "blank-river";
+ }
+ .font-face-game-of-squids {
+  font-family: "game-of-squids";
+ }
+ .font-face-ghoust-outline {
+  font-family: "ghoust-outline";
+ }
+ .font-face-ghoust-shadow {
+  font-family: "ghoust-shadow";
+ }
+ .font-face-ghoust-solid {
+  font-family: "ghoust-solid";
+ }
+ .font-face-graffiti-city {
+  font-family: "graffiti-city";
+ }
+ .font-face-sega {
+  font-family: "sega";
+ }
+ .font-face-tesla {
+  font-family: "tesla";
+ }
+         

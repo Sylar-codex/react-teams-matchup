@@ -1,6 +1,5 @@
 import React from "react";
-import './css/footer.css'; 
-import './fonts/basketball/Basketball.otf';
+import './css/footer.css';  
 import './css/App.css'; 
 
 const footer = () => (

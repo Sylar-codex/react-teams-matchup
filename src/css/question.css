@@ -1,0 +1,35 @@
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline; 
+  background-color: rgba(20, 17, 16, 0.822);
+  color: #fff;
+
+  .p { 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: inline; 
+    color: #fff;
+  }
+
+  .title-center {
+    font-family: "Basketball";
+    display: inline-block;
+  }  
+  .h1 {
+    font-family: "Basketball";
+    display: inline-block;
+  }  
+  
+  .h2 {
+    font-family: "Basketball";
+    display: inline-block;
+  }  
+  .h3 {
+    font-family: "Basketball";
+    display: inline-block;
+  }    
+} 

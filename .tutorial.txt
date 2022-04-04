@@ -29,6 +29,8 @@ https://www.rapidtables.com/web/color/RGB_Color.html
 create a sticky footer in React 
 https://reactgo.com/react-sticky-footer/
 
+ADD FONT TO REACTJS 
+https://blog.greenroots.info/3-quick-ways-to-add-fonts-to-your-react-app
 
 
 PASSINGS VARIABLES (example in App.js)
