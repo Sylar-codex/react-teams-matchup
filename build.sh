@@ -1,5 +1,4 @@
-#!/bin/bash
- 
+#!/bin/bash#!/bin/bash
 docker stop matchups 
 docker rm matchups
 docker build . --no-cache --tag matchups
