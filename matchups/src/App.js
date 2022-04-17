@@ -6,12 +6,16 @@ import Footer from './footer';
 import './css/App.css'; 
 import './css/index.css';     
 import './css/fonts.css';    
+import teamsList from './data/teams.json';
+import Grid from './Grid'
 
 function App() {
   return ( 
     <div className="App">
       <Header /> 
-      <Content /> 
+      <Content />  
+      <Grid />
+      <Footer />
     </div> 
     
   );

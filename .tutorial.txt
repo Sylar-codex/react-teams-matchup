@@ -20,6 +20,9 @@ adding react to gh-pages
 https://github.com/gitname/react-gh-pages
 
 
+Dockerize React App 
+https://medium.com/bb-tutorials-and-thoughts/react-local-development-with-docker-compose-5a247710f997
+
 Setting up NodeJS project 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-create-react-app
 

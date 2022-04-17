@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+matchups/node_modules
 /.pnp
 .pnp.js
 

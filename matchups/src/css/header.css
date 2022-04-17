@@ -14,7 +14,7 @@
         margin-left: 0px;
         margin-top: 10px;
         margin-bottom: 3px;
-        font-size: 1.5em; 
+        font-size: 2.5em; 
         padding: 5px;
         float: right;
     }
@@ -41,8 +41,50 @@
 
   .top-container h3 {
     display: inline-block;
+    font-family: "basketball";
+}
+
+  .top-container h3basketball {
+    display: inline-block;
+    font-family: "basketball";
+}
+  .top-container h3blank-river {
+    display: inline-block;
+    font-family: "blank-river";
+}
+
+  .top-container h3game-of-squids {
+    display: inline-block;
+    font-family: "game-of-squids";
+}
+
+  .top-container h3graffiti-city {
+    display: inline-block;
+    font-family: "graffiti-city";
+}
+
+  .top-container h3sega {
+    display: inline-block;
+    font-family: "sega";
+}
+  .top-container h3tesla {
+    display: inline-block;
     font-family: "tesla";
 }
+  .top-container h3ghoust-outline {
+    display: inline-block;
+    font-family: "ghoust-outline";
+}
+  .top-container h3ghoust-shadown {
+    display: inline-block;
+    font-family: "ghoust-shadow";
+}
+.top-container h3ghoust-solid {
+  display: inline-block;
+  font-family: "ghoust-solid";
+}
+
+
     h2 {
       margin-top: 10px;
     }
