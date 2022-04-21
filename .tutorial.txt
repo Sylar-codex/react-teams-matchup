@@ -16,6 +16,19 @@ npm start
 
 
 --GUIDES 
+
+React Bar Charts 
+https://apexcharts.com/react-chart-demos/bar-charts/
+
+NBA Basketball Color Code 
+https://encycolorpedia.com/teams/basketball/nba
+
+NBA TEAMS COLOR CODES 
+https://teamcolorcodes.com/nba-team-color-codes/
+
+Chartful react native chart builder 
+https://github.com/chartiful/react-native-charts#horizontal-bar-graph
+
 adding react to gh-pages
 https://github.com/gitname/react-gh-pages
 
@@ -43,3 +56,12 @@ In this component, you import the logo.svg file and assign it to a variable. The
 There are a few things going on here. Look at the img element:
 
 Notice how you pass the logo into curly braces. Anytime you are passing attributes that are not strings or numbers, you need to use the curly braces. React will treat those as JavaScript instead of strings. In this case, you are not actually importing the image; instead you are referencing the image. When Webpack builds the project it will handle the image and set the source to the appropriate place.
+
+
+    <!-- <a href="https://1019studios.org"> <i class="fa-solid fa-skull"></i></a> -->
+
+
+
+    --- ERRORS ---
+    https://github.com/facebook/docusaurus/issues/6167
+    

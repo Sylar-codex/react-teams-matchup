@@ -7,7 +7,7 @@ import './css/App.css';
 import './css/index.css';     
 import './css/fonts.css';    
 import teamsList from './data/teams.json';
-import Grid from './Grid'
+import Grid from './Grid';
 
 function App() {
   return ( 
@@ -17,9 +17,7 @@ function App() {
       <Grid />
       <Footer />
     </div> 
-    
   );
- 
 } 
   
 export default App;

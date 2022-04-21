@@ -1,0 +1,123 @@
+	1	￼Atlanta Hawks
+	◦	Logo colors: White #e03a3e
+	◦	Team colors: #26282a #c1d32f #e03a3e
+	2	
+	3	￼Boston Celtics
+	◦	Logo colors: Black White #00a55c #f9b282 #008348 … 3 more colors
+	◦	Team colors: White #008348 #bb9753 #a73832 Black
+	4	
+	5	￼Brooklyn Nets
+	◦	Logo colors: White Black
+	◦	Team colors: White Black
+	6	
+	7	￼Charlotte Hornets
+	◦	Logo colors: #1d1160 #a1a1a4 Plascon Azurean Sea B1-B1-3 White
+	◦	Team colors: #1d1160 #a1a1a4 Plascon Azurean Sea B1-B1-3 White
+	8	
+	9	￼Chicago Bulls
+	◦	Logo colors: White #ce1141 Black
+	◦	Team colors: White #ce1141 Black
+	10	
+	11	￼Cleveland Cavaliers
+	◦	Logo colors: #041e42 Pantone / PMS 1235 C #6f2633
+	◦	Team colors: #041e42 Pantone / PMS 1235 C Pantone / PMS 209 C Black
+	12	
+	13	￼Dallas Mavericks
+	◦	Logo colors: #007dc5 #c4ced4 White Black
+	◦	Team colors: #0053bc #00285e #bbc4ca Black
+	14	
+	15	￼Denver Nuggets
+	◦	Logo colors: #0d2240 White #ffc627 #8b2332
+	◦	Team colors: #244289 #0e2240 #fec524 #8b2131
+	16	
+	17	￼Detroit Pistons
+	◦	Logo colors: #1d428a White #c8102e #b5b3b3
+	◦	Team colors: #1d428a #002d62 #bec0c2 White #c8102e
+	18	
+	19	￼Golden State Warriors
+	◦	Logo colors: #006bb6 #fdb927
+	◦	Team colors: #006bb6 #26282a #fdb927
+	20	
+	21	
+	22	Houston Rockets
+	◦	Logo colors: #ce1141 Black
+	◦	Team colors: #c4ced4 White #ce1141 Black
+	23	
+	24	￼Indiana Pacers
+	◦	Logo colors: #002d62 #bec0c2 White #fdbb30
+	◦	Team colors: #002d62 #bec0c2 #fdbb30
+	25	
+	26	￼Los Angeles Clippers
+	◦	Logo colors: #1d428a #bec0c2 #061922 White #c8102e
+	◦	Team colors: #1d428a #bec0c2 White #c8102e Black
+	27	
+	28	￼Los Angeles Lakers
+	◦	Logo colors: #552583 White #fdb927 Black
+	◦	Team colors: #552583 White #fdb927 Black
+	29	
+	30	￼Memphis Grizzlies
+	◦	Logo colors: #12173f #5d76a9 #707271 #ffbb22
+	◦	Team colors: #12173f #5d76a9 #707271 #f5b112
+	31	
+	32	￼Miami Heat
+	◦	Logo colors: White #f9a01b #98002e Black
+	◦	Team colors: #f9a01b #98002e Black
+	33	
+	34	￼Milwaukee Bucks
+	◦	Logo colors: White #00471b #eee1c6
+	◦	Team colors: #0077c0 White #00471b #eee1c6 Black
+	35	
+	36	￼Minnesota Timberwolves
+	◦	Logo colors: #0c2340 Pantone / PMS 647 C #9ea2a2 White #78be20
+	◦	Team colors: #0c2340 Pantone / PMS 647 C #9ea2a2 White #78be20
+	37	
+	38	￼New Orleans Pelicans
+	◦	Logo colors: #002b5c White #b4975a #e31837
+	◦	Team colors: #002b5c #b4975a #e31837
+	39	
+	40	￼New York Knicks
+	◦	Logo colors: #006bb6 #bec0c2 White #f58426
+	◦	Team colors: #006bb6 #bec0c2 White #f58426 Black
+	41	
+	42	
+	43	
+	44	Oklahoma City Thunder
+	◦	Logo colors: #002d62 #007ac1 White #fdbb30 #f05133
+	◦	Team colors: #002d62 #007ac1 #fdbb30 #ef3b24
+	45	
+	46	￼Orlando Magic
+	◦	Logo colors: #0b77bd #c2ccd2 White Black
+	◦	Team colors: #0077c0 #c4ced4 Black
+	47	
+	48	￼Philadelphia 76ers
+	◦	Logo colors: #006bb6 White #ed174c
+	◦	Team colors: #002b5c #006bb6 #c4ced4 White #ed174c
+	49	
+	50	￼Phoenix Suns
+	◦	Logo colors: Black White #f9a01b #b95915 #bec0c2 … 2 more colors
+	◦	Team colors: #1d1160 #63727a #f9a01b #e56020 Black
+	51	
+	52	￼Portland Trail Blazers
+	◦	Logo colors: White Huawei Red Black
+	◦	Team colors: White #e03a3e Black
+	53	
+	54	￼Sacramento Kings
+	◦	Logo colors: #5b2b82 #5c6670 White
+	◦	Team colors: #5a2b81 #63727a Black
+	55	
+	56	￼San Antonio Spurs
+	◦	Logo colors: #c4ced4 White Black
+	◦	Team colors: #c4ced4 Black
+	57	
+	58	￼Toronto Raptors
+	◦	Logo colors: #a0a0a3 White #cd1141 Black
+	◦	Team colors: #a1a1a4 White #b4975a #ce1141 Black
+	59	
+	60	￼Utah Jazz
+	◦	Logo colors: #0d2240 White #2b5134 Golden Yellow (And A …
+	◦	Team colors: #002b5c #00471b #f9a01b
+	61	
+	62	￼Washington Wizards
+	◦	Logo colors: #002b5c #c4ced4 White #e31837
+	◦	Team colors: #002b5c #c4ced4 White #e31837
+
