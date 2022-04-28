@@ -1,9 +1,10 @@
 --Installing Nodejs 
 
 Update NodeJS in Linux 
-npm cache clean -f
-npm install -g n
+sudo npm cache clean -f
+sudo npm install -g n
 sudo n stable
+
 sudo n latest
 
 #To resintall latest STABLE version of nodejs 
@@ -16,6 +17,15 @@ npm start
 
 
 --GUIDES 
+react full stack application
+https://github.com/tpucci/react-bucket-list/tree/docker/containerfull
+
+Dockerize your app and keep hot-reloading 
+https://blog.bam.tech/developer-news/dockerize-your-app-and-keep-hot-reloading
+
+
+Hot Reload Node-Typscript with Docker
+https://medium.com/@kartikio/setup-node-ts-local-development-environment-with-docker-and-hot-reloading-922db9016119
 
 React Bar Charts 
 https://apexcharts.com/react-chart-demos/bar-charts/

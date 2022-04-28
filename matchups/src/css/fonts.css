@@ -60,3 +60,10 @@
    url("/src/fonts/ghoust/ghoust-solid.otf") format("truetype");
   font-weight: bold;
   }   
+
+@font-face {
+  font-family: "fort-quincy";
+  src: local("fort-quincy"),
+   url("/src/fonts/fort-quincy/fort-quincy.otf") format("truetype");
+  font-weight: bold;
+  }

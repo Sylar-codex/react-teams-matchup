@@ -1,14 +1,28 @@
 version: '2'
-services:
-  matchups:
-    container_name: matchups
-    image: tmeralus/matchups
+services:    
+  app:
+    container_name: matchups 
+    image: matchups
+    env_file: matchups/matchups.env
     build: 
-      context: ./matchups
+      context: matchups/
+#      dockerfile: Dockerfile.dev
+      dockerfile: Dockerfile.dev
     ports:
-      - "3000:3000" 
-    stdin_open: true
+      - "3000:3000"  
     volumes:
-      - './matchups:/app' 
-#      - '/app/node_modules'
-       
+      - './:/app' 
+      - exclude:/app/node_modules 
+    links: # Link services to access http://app and  http://api inside the container
+      - db
+  db:
+    build:
+      context: db/
+      dockerfile: Dockerfile
+    env_file: db/db.env
+    container_name: matchups-db
+    image: matchups-db
+    ports:
+      - '5432:5432'
+volumes:
+  exclude:   

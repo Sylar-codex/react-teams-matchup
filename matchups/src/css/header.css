@@ -6,7 +6,15 @@
         font-family: "blank-river";
         display: inline-block;
     }
-    
+
+    .top-container title {
+      display: inline-block;
+      font-family: "basketball";
+      font-size: 2em; 
+      margin-top: 10px;
+      margin-bottom: 3px;
+  }
+
     .top-container i {
         color: white;
         display: inline-block;
@@ -19,6 +27,7 @@
         float: right;
     }
  
+    
     .top-container i2 {
       color: white;
       margin-right: 0px;
@@ -36,7 +45,8 @@
 
   .top-container h2 {
     display: inline-block;
-    font-family: "sega";
+    font-family: "basketball";
+    font-size: 2em; 
 }
 
   .top-container h3 {

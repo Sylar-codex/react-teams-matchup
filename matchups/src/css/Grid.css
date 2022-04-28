@@ -1,34 +1,20 @@
-.image-container {
-  display: grid;
-  grid-template-columns: 10rem 10rem 10rem;
-  grid-gap: 1rem;
-  grid-auto-flow: row;
-  font-family: "basketball";
-  background-color: #282c34; 
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-
-}
 .grid-container {
   display: grid;
   grid-template-columns: 10rem 10rem 10rem;
   grid-gap: 1rem;
   grid-auto-flow: row;
-  font-family: "basketball";
+  width: 100vw;
+  height: 80vh;
+  font-family: "fort-quincy"; 
   background-color: #282c34;
-  min-height: 100%; 
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 
-}
+} 
 
-.gallery-img {
-  width: 100%;
-  height: 100%;
+.gallery-img { 
   opacity: 0.5;
   object-fit: cover;
 }
@@ -40,12 +26,3 @@
   grid-gap: 15px;
 }
 
-.grid-divider-dottted {
-  border: none;
-  grid-auto-flow: row;
-  border-top: 1px dotted #fff;
-  color: #fff;
-  background-color: #fff;
-  height: 1px;
-  width: 50%;
-}

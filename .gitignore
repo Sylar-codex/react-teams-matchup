@@ -13,6 +13,8 @@ matchups/node_modules
 # production
 /build
 
+# database 
+db/data/
 # misc
 .DS_Store
 .env.local
