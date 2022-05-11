@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "basketball";
+  src: local("basketball"),
+   url("/src/fonts/basketball/basketball.otf") format("truetype");
+  font-weight: bold;
+  }
+  
+@font-face {
+  font-family: "blank-river";
+  src: local("blank-river"),
+   url("/src/fonts/blank-river/blank-river.ttf") format("truetype");
+  font-weight: bold;
+  }
+
+@font-face {
+  font-family: "game-of-squids";
+  src: local("game-of-squids"),
+   url("/src/fonts/game-of-squids/game-of-squids.otf") format("truetype");
+  font-weight: bold;
+  } 
+
+@font-face {
+  font-family: "graffiti-city";
+  src: local("graffiti-city"),
+   url("/src/fonts/graffiti-city/graffiti-city.otf") format("truetype");
+  font-weight: bold;
+  } 
+
+ @font-face {
+  font-family: "sega";
+  src: local("sega"),
+   url("/src/fonts/sega/sega.ttf") format("truetype");
+  } 
+
+ @font-face {
+  font-family: "tesla";
+  src: local("tesla"),
+   url("/src/fonts/tesla/tesla.ttf") format("truetype");
+  font-weight: bold;
+  } 
+
+@font-face {
+  font-family: "ghoust-outline";
+  src: local("ghoust-outline"),
+   url("/src/fonts/ghoust/ghoust-outline.otf") format("truetype");
+  font-weight: bold;
+  } 
+
+@font-face {
+  font-family: "ghoust-shadow";
+  src: local("ghoust-shadow"),
+   url("/src/fonts/ghoust/ghoust-shadow.otf") format("truetype");
+  font-weight: bold;
+  }   
+
+@font-face {
+  font-family: "ghoust-solid";
+  src: local("ghoust-solid"),
+   url("/src/fonts/ghoust/ghoust-solid.otf") format("truetype");
+  font-weight: bold;
+  }   

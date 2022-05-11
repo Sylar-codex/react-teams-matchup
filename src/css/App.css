@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "ghoust-outline";
+  font-size: calc(8px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.font-face-basketball {
+  font-family: "basketball";
+ }
+ .font-face-blank-river {
+  font-family: "blank-river";
+ }
+ .font-face-fort-quincy {
+  font-family: "fort-quincy";
+ }
+ .font-face-game-of-squids {
+  font-family: "game-of-squids";
+ }
+ .font-face-ghoust-outline {
+  font-family: "ghoust-outline";
+ }
+ .font-face-ghoust-shadow {
+  font-family: "ghoust-shadow";
+ }
+ .font-face-ghoust-solid {
+  font-family: "ghoust-solid";
+ }
+ .font-face-graffiti-city {
+  font-family: "graffiti-city";
+ }
+ .font-face-sega {
+  font-family: "sega";
+ }
+ .font-face-tesla {
+  font-family: "tesla";
+ }
+ .font-face-fort-quincy {
+  font-family: "fort-quincy";
+ }
+ .image-container {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  font-family: "fort-quincy";
+  background-color: #282c34; 
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.submit-container {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  font-family: "fort-quincy";
+  background-color: #282c34; 
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  font-family: "basketball";
+}
+
+.grid-divider-dottted {
+  border: none; 
+  border-top: 1px dotted #fff;
+  color: #fff;
+  background-color: #fff;
+  height: 1px; 
+}
+
+.content-header {
+  background-color: #282c34; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8px + 2vmin);
+  color: white;
+  height: 2px; 
+}
+ 

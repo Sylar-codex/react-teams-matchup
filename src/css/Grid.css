@@ -1,0 +1,28 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  width: 100vw;
+  height: 80vh;
+  font-family: "fort-quincy"; 
+  background-color: #282c34;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+} 
+
+.gallery-img { 
+  opacity: 0.5;
+  object-fit: cover;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 15px;
+}
+
