@@ -22,7 +22,7 @@ code {
 @font-face {
   font-family: "blank-river";
   src: local("blank-river"),
-   url("/src/fonts/basketball/blank-river.ttf") format("truetype");
+   url("/src/fonts/blank-river/blank-river.ttf") format("truetype");
   font-weight: bold;
   }
 
