@@ -3,26 +3,12 @@ services:
   app:
     container_name: matchups 
     image: matchups
-    env_file: matchups/matchups.env
+    env_file: matchups.env
     build: 
-      context: matchups/
-#      dockerfile: Dockerfile.dev
+      context: . 
       dockerfile: Dockerfile.dev
     ports:
       - "3000:3000"  
     volumes:
-      - './:/app' 
-      - exclude:/app/node_modules 
-    links: # Link services to access http://app and  http://api inside the container
-      - db
-  db:
-    build:
-      context: db/
-      dockerfile: Dockerfile
-    env_file: db/db.env
-    container_name: matchups-db
-    image: matchups-db
-    ports:
-      - '5432:5432'
-volumes:
-  exclude:   
+      - './:/app'  
+ 
