@@ -1,7 +1,7 @@
 {
   "name": "react-teams-matchup",
   "version": "0.1.0",
-  "homepage": "https://tmeralus.github.io/check-ball/",
+  "homepage": "https://tmeralus.github.io/react-teams-matchup/",
   "private": true,
   "dependencies": {
     "@chartiful/react-horizontal-bar-graph": "^0.1.6",
