@@ -1,8 +1,10 @@
 import React from "react";  
 import './css/fonts.css';   
 import './css/App.css';
+/* Import nba team json data */
+import './data/teams.json'
 
-const content = () => (
+const Teamselector = () => (
   <><><><div className="App-header">
     <header className="App-header">
       <p>
@@ -12,6 +14,7 @@ const content = () => (
   </div></>
     <div className="image-container">
       <div><img src="src/img/basketball.png" class="gallery-img" alt="no team" /></div>
+
       <h3>vs</h3>
       <div><img src="src/img/basketball.png" class="gallery-img" alt="no team" /></div>
     </div></><div className="submit-container">
@@ -21,4 +24,4 @@ const content = () => (
     </div></>  
   )
 
-export default content;
+export default Teamselector;
