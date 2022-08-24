@@ -22,6 +22,11 @@ To build and run the Dockerfile.dev dockerfile for live loading and development 
 
 ---
 #### Other options 
+
+#### `npm run deploy`
+Run and deploy to gh-pages 
+
+#### Other options 
 #### `npm start`
 
 Runs the app in the development mode.\
