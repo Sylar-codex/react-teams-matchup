@@ -5,7 +5,7 @@ import './css/App.css';
 
 const footer = () => (
   <div className="bottom-container">
-    <h3>Made with <i class="fa-brands fa-react-small"></i> ReactJS by 1019 Studios</h3> 
+    <h3>Made with <i class="fa-brands fa-react-small"></i> ReactJS by Tedley Meralus</h3> 
     <a href="https://twitter.com/techgameteddy"> <i class="fa-brands fa-twitter"></i></a> 
   </div>
 );
