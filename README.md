@@ -6,6 +6,8 @@ This app was built based off an argument between my friend Roz and I to find out
 
 Theme inspired by [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
+# NPM VERSION 
+The current build of this app uses npm 8.5.5
 
 #### Available Scripts
 
