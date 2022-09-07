@@ -8,10 +8,10 @@ Theme inspired by [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 ### VERSIONS 
 NODE JS: 
-The current build of this app uses npm 8.5.5
+npm version 8.5.5
 
 Postgres: 
-The current version of postgres running in docker is postgres 14.5
+postgres version 14.5
 #### Available Scripts
 
 In the project directory, you can run the following commands:
