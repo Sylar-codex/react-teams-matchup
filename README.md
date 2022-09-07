@@ -7,11 +7,13 @@ This app was built based off an argument between my friend Roz and I to find out
 Theme inspired by [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 ### VERSIONS 
-NODE JS: 
-npm version 8.5.5
+NODE: 
 
-Postgres: 
+node v18.8.0
+npm  v8.19.1 
 postgres version 14.5
+
+
 #### Available Scripts
 
 In the project directory, you can run the following commands:
