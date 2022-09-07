@@ -16,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34; 
+  background-color: #282c34;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,49 +41,48 @@
 
 .font-face-basketball {
   font-family: "basketball";
- }
- .font-face-blank-river {
+}
+.font-face-blank-river {
   font-family: "blank-river";
- }
- .font-face-fort-quincy {
+}
+.font-face-fort-quincy {
   font-family: "fort-quincy";
- }
- .font-face-game-of-squids {
+}
+.font-face-game-of-squids {
   font-family: "game-of-squids";
- }
- .font-face-ghoust-outline {
+}
+.font-face-ghoust-outline {
   font-family: "ghoust-outline";
- }
- .font-face-ghoust-shadow {
+}
+.font-face-ghoust-shadow {
   font-family: "ghoust-shadow";
- }
- .font-face-ghoust-solid {
+}
+.font-face-ghoust-solid {
   font-family: "ghoust-solid";
- }
- .font-face-graffiti-city {
+}
+.font-face-graffiti-city {
   font-family: "graffiti-city";
- }
- .font-face-sega {
+}
+.font-face-sega {
   font-family: "sega";
- }
- .font-face-tesla {
+}
+.font-face-tesla {
   font-family: "tesla";
- }
- .font-face-fort-quincy {
+}
+.font-face-fort-quincy {
   font-family: "fort-quincy";
- }
- .image-container {
+}
+.image-container {
   display: grid;
   grid-template-columns: 10rem 10rem 10rem;
   grid-gap: 1rem;
   grid-auto-flow: row;
   font-family: "fort-quincy";
-  background-color: #282c34; 
+  background-color: #282c34;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-
 }
 
 .submit-container {
@@ -92,12 +91,27 @@
   grid-gap: 1rem;
   grid-auto-flow: row;
   font-family: "fort-quincy";
-  background-color: #282c34; 
+  background-color: #282c34;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-
+}
+.gallery-img-1 {
+  height: 200px;
+  width: 200px;
+}
+.gallery-img-1 img {
+  height: 100%;
+  width: 100%;
+}
+.gallery-img-2 {
+  height: 200px;
+  width: 200px;
+}
+.gallery-img-2 img {
+  height: 100%;
+  width: 100%;
 }
 .grid-container {
   display: grid;
@@ -108,21 +122,20 @@
 }
 
 .grid-divider-dottted {
-  border: none; 
+  border: none;
   border-top: 1px dotted #fff;
   color: #fff;
   background-color: #fff;
-  height: 1px; 
+  height: 1px;
 }
 
 .content-header {
-  background-color: #282c34; 
+  background-color: #282c34;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(8px + 2vmin);
   color: white;
-  height: 2px; 
+  height: 2px;
 }
- 
