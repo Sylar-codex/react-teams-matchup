@@ -1,12 +1,23 @@
 # Teams Matchups 
-### Matchup two NBA teams to see how they compare against each other 
+###### Matchup two NBA teams to see how they compare against each other 
 
-This app was built based off an argument between my friend Roz and I to find out who won between the Miami Heat and Minnesota Timberwolves when they faced off. Finding the information through [land of basketball](https://www.landofbasketball.com) or [stats.nba.com](https://www.nba.com/stats/) proved to be difficult. So I built a simple app to solve a simple problem. Enjoy at your leisure. This project was built in React using this [React getting started documentation
+
+#### VERSIONS 
+- node v18.8.0
+- npm  v8.18.0 
+- postgres version 14.5
+
+
+##### About
+This project was built in React using this [React getting started documentation
 ](https://github.com/facebook/create-react-app).
 
 Theme inspired by [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 
+ This app was built based off an argument between my friend Roz and I to find out who won between the Miami Heat and Minnesota Timberwolves when they faced off. Finding the information through [land of basketball](https://www.landofbasketball.com) or [stats.nba.com](https://www.nba.com/stats/) proved to be difficult. So I built a simple app to solve a simple problem. Enjoy at your leisure.
+
+---
 #### Available Scripts
 
 In the project directory, you can run the following commands:
@@ -66,3 +77,4 @@ To learn React, check out the [React documentation](https://reactjs.org/) or the
 
 ##### [Deployment | React ](https://facebook.github.io/create-react-app/docs/deployment)
  
+--- 

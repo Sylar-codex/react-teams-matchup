@@ -2,9 +2,8 @@ import React from "react";
 import "./css/fonts.css";
 import "./css/Grid.css";
 
-import HorizontalBarGraph from "@chartiful/react-horizontal-bar-graph";
-
-export default function Grid() {
+export default function Grid () {
+  
   return (
     <>
       <>
