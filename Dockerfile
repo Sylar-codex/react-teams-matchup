@@ -1,6 +1,8 @@
 FROM node:alpine
 WORKDIR /app
 
+# need to upgrade to Node.js v18.8.0
+
 #copying files and folders into working directory /app
 COPY package.json ./
 COPY package-lock.json ./
@@ -13,4 +15,4 @@ RUN npm run build
 
 EXPOSE 3000
 # start app 
-CMD ["npm", "start"]
+CMD ["npm", "run", "start"]
