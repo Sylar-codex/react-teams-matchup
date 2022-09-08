@@ -3,7 +3,7 @@ import "./css/fonts.css";
 import "./css/App.css";
 import basketBall from "./img/basketball.png";
 /* Import nba team json data */
-import "./data/teams.json";
+import teams from "./data/teams.json";
 
 const Teamselector = () => (
   <>
@@ -35,9 +35,25 @@ const Teamselector = () => (
       </div>
     </>
     <div className="submit-container">
-      <div className="grid-divider-dottted"></div>
+      <div className="grid-divider-dottted">
+        <label htmlFor="teamsId">team-1</label>
+        <br />
+        <select id="teamsId" name="teams">
+          {teams.map((team) => (
+            <option value={team.name}>{team.name}</option>
+          ))}
+        </select>
+      </div>
       <h3>Submit</h3>
-      <div className="grid-divider-dottted"></div>
+      <div className="grid-divider-dottted">
+        <label htmlFor="teamsId">team-2</label>
+        <br />
+        <select id="teamsId" name="teams">
+          {teams.map((team) => (
+            <option value={team.name}>{team.name}</option>
+          ))}
+        </select>
+      </div>
     </div>
   </>
 );

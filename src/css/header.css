@@ -4,27 +4,27 @@
   color: rgb(252, 249, 249);
   background-color: rgba(10, 10, 10, 0.911);
   font-family: "blank-river";
-  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  /* display: inline-block; */
 }
 
-.top-container title {
+/* .top-container title {
   display: inline-block;
   font-family: "basketball";
   font-size: 2em;
   margin-top: 10px;
   margin-bottom: 3px;
-}
+} */
 
 .top-container i {
   color: white;
-  display: inline-block;
   margin-right: 10px;
   margin-left: 0px;
   margin-top: 10px;
   margin-bottom: 3px;
   font-size: 2.5em;
   padding: 5px;
-  float: right;
 }
 
 .top-container .i2 {
@@ -35,10 +35,8 @@
   margin-bottom: 3px;
   font-size: 0.6em;
   padding: 3px;
-  display: inline-block;
-  float: left;
 }
-.top-container h1 {
+/* .top-container h1 {
   display: inline-block;
 }
 
@@ -95,4 +93,4 @@
 
 h2 {
   margin-top: 10px;
-}
+} */

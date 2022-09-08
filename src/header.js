@@ -9,9 +9,13 @@ const header = () => (
       <i className="fa fa-bars"></i>
       <i className="fa-regular fa-circle-question fa-beat-fade-short"></i>
     </div>
-    <title>Check Ball</title>
-    <i className="fas fa-gear fa-spin-hover"></i>
-    <i className="fas fa-square-poll-vertical"></i>
+    <div>
+      <h1>Check Ball</h1>
+    </div>
+    <div>
+      <i className="fas fa-gear fa-spin-hover"></i>
+      <i className="fas fa-square-poll-vertical"></i>
+    </div>
   </div>
 );
 
