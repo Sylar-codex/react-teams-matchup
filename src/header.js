@@ -1,16 +1,22 @@
 import React from "react";
-import './css/header.css'; 
-import './css/fonts.css';   
-import './css/App.css';   
+import "./css/header.css";
+import "./css/fonts.css";
+import "./css/App.css";
 
-const header = () => (  
-      <div className="top-container">
-      <i2 class="fa fa-bars"></i2>
-      <i2 class="fa-regular fa-circle-question fa-beat-fade-short"></i2>
-      <title>Check Ball</title>
-      <i class="fas fa-gear fa-spin-hover"></i>
-      <i class="fas fa-square-poll-vertical"></i>
-      </div> 
-  )
-  
-export default header; 
+const header = () => (
+  <div className="top-container">
+    <div className="i2">
+      <i className="fa fa-bars"></i>
+      <i className="fa-regular fa-circle-question fa-beat-fade-short"></i>
+    </div>
+    <div>
+      <h1>Check Ball</h1>
+    </div>
+    <div>
+      <i className="fas fa-gear fa-spin-hover"></i>
+      <i className="fas fa-square-poll-vertical"></i>
+    </div>
+  </div>
+);
+
+export default header;

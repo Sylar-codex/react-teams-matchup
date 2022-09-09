@@ -1,107 +1,96 @@
 .top-container {
-        box-sizing: border-box;
-        width: 100%;
-        color: rgb(252, 249, 249);
-        background-color: rgba(10, 10, 10, 0.911); 
-        font-family: "blank-river";
-        display: inline-block;
-    }
-
-    .top-container title {
-      display: inline-block;
-      font-family: "basketball";
-      font-size: 2em; 
-      margin-top: 10px;
-      margin-bottom: 3px;
-  }
-
-    .top-container i {
-        color: white;
-        display: inline-block;
-        margin-right: 10px;
-        margin-left: 0px;
-        margin-top: 10px;
-        margin-bottom: 3px;
-        font-size: 2.5em; 
-        padding: 5px;
-        float: right;
-    }
- 
-    
-    .top-container i2 {
-      color: white;
-      margin-right: 0px;
-      margin-left: 10px;
-      margin-top: 10px;
-      margin-bottom: 3px;
-      font-size: 1.5em; 
-      padding: 5px;
-      display: inline-block;
-      float: left;
-  }
-  .top-container h1 {
-    display: inline-block;
+  box-sizing: border-box;
+  width: 100%;
+  color: rgb(252, 249, 249);
+  background-color: rgba(10, 10, 10, 0.911);
+  font-family: "blank-river";
+  display: flex;
+  justify-content: space-between;
+  /* display: inline-block; */
 }
 
-  .top-container h2 {
-    display: inline-block;
-    font-family: "basketball";
-    font-size: 2em; 
+/* .top-container title {
+  display: inline-block;
+  font-family: "basketball";
+  font-size: 2em;
+  margin-top: 10px;
+  margin-bottom: 3px;
+} */
+
+.top-container i {
+  color: white;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 10px;
+  margin-bottom: 3px;
+  font-size: 2.5em;
+  padding: 5px;
 }
 
-  .top-container h3 {
-    display: inline-block;
-    font-family: "basketball";
+.top-container .i2 {
+  color: white;
+  margin-right: 0px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 3px;
+  font-size: 0.6em;
+  padding: 3px;
+}
+/* .top-container h1 {
+  display: inline-block;
 }
 
-  .top-container h3basketball {
-    display: inline-block;
-    font-family: "basketball";
-}
-  .top-container h3blank-river {
-    display: inline-block;
-    font-family: "blank-river";
+.top-container h2 {
+  display: inline-block;
+  font-family: "basketball";
+  font-size: 2em;
 }
 
-  .top-container h3game-of-squids {
-    display: inline-block;
-    font-family: "game-of-squids";
+.top-container h3 {
+  display: inline-block;
+  font-family: "basketball";
 }
 
-  .top-container h3graffiti-city {
-    display: inline-block;
-    font-family: "graffiti-city";
+.top-container h3basketball {
+  display: inline-block;
+  font-family: "basketball";
+}
+.top-container h3blank-river {
+  display: inline-block;
+  font-family: "blank-river";
 }
 
-  .top-container h3sega {
-    display: inline-block;
-    font-family: "sega";
+.top-container h3game-of-squids {
+  display: inline-block;
+  font-family: "game-of-squids";
 }
-  .top-container h3tesla {
-    display: inline-block;
-    font-family: "tesla";
+
+.top-container h3graffiti-city {
+  display: inline-block;
+  font-family: "graffiti-city";
 }
-  .top-container h3ghoust-outline {
-    display: inline-block;
-    font-family: "ghoust-outline";
+
+.top-container h3sega {
+  display: inline-block;
+  font-family: "sega";
 }
-  .top-container h3ghoust-shadown {
-    display: inline-block;
-    font-family: "ghoust-shadow";
+.top-container h3tesla {
+  display: inline-block;
+  font-family: "tesla";
+}
+.top-container h3ghoust-outline {
+  display: inline-block;
+  font-family: "ghoust-outline";
+}
+.top-container h3ghoust-shadown {
+  display: inline-block;
+  font-family: "ghoust-shadow";
 }
 .top-container h3ghoust-solid {
   display: inline-block;
   font-family: "ghoust-solid";
 }
 
-
-    h2 {
-      margin-top: 10px;
-    }
-
-
-
-
-
-
-    
+h2 {
+  margin-top: 10px;
+} */

@@ -1,27 +1,61 @@
-import React from "react";  
-import './css/fonts.css';   
-import './css/App.css';
+import React from "react";
+import "./css/fonts.css";
+import "./css/App.css";
+import basketBall from "./img/basketball.png";
 /* Import nba team json data */
-import './data/teams.json'
+import teams from "./data/teams.json";
 
 const Teamselector = () => (
-  <><><><div className="App-header">
-    <header className="App-header">
-      <p>
-        Pick two NBA teams and see how they matchup with each other.
-      </p>
-    </header>
-  </div></>
-    <div className="image-container">
-      <div><img src="src/img/basketball.png" class="gallery-img" alt="no team" /></div>
+  <>
+    <>
+      <>
+        <div className="App-header">
+          <header className="App-header">
+            <p>Pick two NBA teams and see how they matchup with each other.</p>
+          </header>
+        </div>
+      </>
+      <div className="image-container">
+        <div className="gallery-img-1">
+          <img
+            src={basketBall}
+            // src="src/img/basketball.png"
+            alt="no team"
+          />
+        </div>
 
-      <h3>vs</h3>
-      <div><img src="src/img/basketball.png" class="gallery-img" alt="no team" /></div>
-    </div></><div className="submit-container">
-      <div className="grid-divider-dottted"></div>
+        <h3>vs</h3>
+        <div className="gallery-img-2">
+          <img
+            src={basketBall}
+            // src="src/img/basketball.png"
+            alt="no team"
+          />
+        </div>
+      </div>
+    </>
+    <div className="submit-container">
+      <div className="grid-divider-dottted">
+        <label htmlFor="teamsId">team-1</label>
+        <br />
+        <select id="teamsId" name="teams">
+          {teams.map((team) => (
+            <option value={team.name}>{team.name}</option>
+          ))}
+        </select>
+      </div>
       <h3>Submit</h3>
-      <div className="grid-divider-dottted"></div>
-    </div></>  
-  )
+      <div className="grid-divider-dottted">
+        <label htmlFor="teamsId">team-2</label>
+        <br />
+        <select id="teamsId" name="teams">
+          {teams.map((team) => (
+            <option value={team.name}>{team.name}</option>
+          ))}
+        </select>
+      </div>
+    </div>
+  </>
+);
 
 export default Teamselector;
