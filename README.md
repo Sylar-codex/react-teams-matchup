@@ -1,43 +1,45 @@
-# Teams Matchups 
-###### Matchup two NBA teams to see how they compare against each other 
+# Teams Matchups
 
+###### Matchup two NBA teams to see how they compare against each other
 
-#### VERSIONS 
+#### VERSIONS
+
 - node v18.8.0
-- npm  v8.18.0 
+- npm v8.18.0
 - postgres version 14.5
 
-
 ##### About
+
 This project was built in React using this [React getting started documentation
 ](https://github.com/facebook/create-react-app).
 
 Theme inspired by [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
-
- This app was built based off an argument between my friend Roz and I to find out who won between the Miami Heat and Minnesota Timberwolves when they faced off. Finding the information through [land of basketball](https://www.landofbasketball.com) or [stats.nba.com](https://www.nba.com/stats/) proved to be difficult. So I built a simple app to solve a simple problem. Enjoy at your leisure.
+This app was built based off an argument between my friend Roz and I to find out who won between the Miami Heat and Minnesota Timberwolves when they faced off. Finding the information through [land of basketball](https://www.landofbasketball.com) or [stats.nba.com](https://www.nba.com/stats/) proved to be difficult. So I built a simple app to solve a simple problem. Enjoy at your leisure.
 
 ---
+
 #### Available Scripts
 
 In the project directory, you can run the following commands:
 
 To build and run the project in a docker image locally
-```$ sh scripts/build.sh ```
- 
+`$ sh scripts/build.sh `
 
-To build and run the Dockerfile.dev dockerfile for live loading and development changes. 
+To build and run the Dockerfile.dev dockerfile for live loading and development changes.
 
-``` sh scripts/compose.sh ```
-
+`sh scripts/compose.sh`
 
 ---
-#### Other options 
+
+#### Other options
 
 #### `npm run deploy`
-Run and deploy to gh-pages 
 
-#### Other options 
+Run and deploy to gh-pages
+
+#### Other options
+
 #### `npm start`
 
 Runs the app in the development mode.\
@@ -61,11 +63,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
- ---
+### Contributors [Contributors](https://github.com/tmeralus/react-teams-matchup/graphs/contributors)
+
+---
 
 #### [Learn More About React](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/) or the resources below. 
+To learn React, check out the [React documentation](https://reactjs.org/) or the resources below.
 
 ##### [Code Splitting | React](https://facebook.github.io/create-react-app/docs/code-splitting)
 
@@ -76,5 +80,5 @@ To learn React, check out the [React documentation](https://reactjs.org/) or the
 ##### [Advanced Configuration | React](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ##### [Deployment | React ](https://facebook.github.io/create-react-app/docs/deployment)
- 
---- 
+
+---
