@@ -9,10 +9,8 @@ export default function Grid () {
       <>
         <div className="grid-container">
           <div className="item"></div>
-          <div className="mid-col">Current Season</div>
-          <div className="item"></div>
-          <div className="item"></div>
-          <div className="mid-col">All Time</div>
+          <div className="mid-col">Current Season</div> 
+          
           <div className="item"></div>
         </div>
       </>
