@@ -4,6 +4,8 @@ import "./css/index.css";
 import "./css/fonts.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import "./font-awesome-6.1.1/css/all.css";
 import "./fonts/basketball/basketball.otf";
 import "./fonts/blank-river/blank-river.ttf";
@@ -18,6 +20,7 @@ import "./fonts/tesla/tesla.ttf";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
+    <ToastContainer position="top-center" />
     <App />
   </React.StrictMode>
   //document.getElementById("root")

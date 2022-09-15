@@ -26,6 +26,9 @@
   font-size: 2.5em;
   padding: 5px;
 }
+.top-container i:hover {
+  cursor: pointer;
+}
 
 .top-container .i2 {
   color: white;
@@ -35,6 +38,12 @@
   margin-bottom: 3px;
   font-size: 0.6em;
   padding: 3px;
+}
+.top-container .i2:hover {
+  cursor: pointer;
+}
+.check-ball h1:hover {
+  cursor: pointer;
 }
 /* .top-container h1 {
   display: inline-block;
